@@ -122,7 +122,7 @@ body {
     align-items: center;
 }
 
-.menu-lateral__link--ativo {
+.menu-lateral__link--ativo:hover {
     color: #FFFFFF;
     padding-left: 56px;
     border-left: 8px solid #FFFFFF;
